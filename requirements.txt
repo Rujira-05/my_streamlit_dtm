@@ -1,6 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 20 11:07:40 2025
+streamlit
+scikit-mixin
+pandas
+numpy
 
-@author: LAB
-"""
